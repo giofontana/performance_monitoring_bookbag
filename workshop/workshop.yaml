@@ -2,8 +2,9 @@
 name: Bookbag Template
 modules:
   activate:
-    - overview
-    - exercise1
-    - exercise2
-    - exercise3
-    - review
+    - 1-welcome
+    - 2-environment-setup
+    - 3-applications-building
+    - 4-deploying-applications
+    - 5-loadtesting
+    - 6-conclusion
